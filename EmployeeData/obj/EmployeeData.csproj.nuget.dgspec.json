@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New Project\\employeedata2\\EmployeeData\\EmployeeData\\EmployeeData.csproj": {}
+    "E:\\C#\\C#_REPOS\\EmployeeData.API\\EmployeeData\\EmployeeData.csproj": {}
   },
   "projects": {
-    "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Business\\Employee.Business.csproj": {
+    "E:\\C#\\C#_REPOS\\EmployeeData.API\\Employee.Business\\Employee.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Business\\Employee.Business.csproj",
+        "projectUniqueName": "E:\\C#\\C#_REPOS\\EmployeeData.API\\Employee.Business\\Employee.Business.csproj",
         "projectName": "Employee.Business",
-        "projectPath": "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Business\\Employee.Business.csproj",
-        "packagesPath": "C:\\Users\\SSD\\.nuget\\packages\\",
-        "outputPath": "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Business\\obj\\",
+        "projectPath": "E:\\C#\\C#_REPOS\\EmployeeData.API\\Employee.Business\\Employee.Business.csproj",
+        "packagesPath": "C:\\Users\\rajat\\.nuget\\packages\\",
+        "outputPath": "E:\\C#\\C#_REPOS\\EmployeeData.API\\Employee.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SSD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rajat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Model\\Employee.Model.csproj": {
-                "projectPath": "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Model\\Employee.Model.csproj"
+              "E:\\C#\\C#_REPOS\\EmployeeData.API\\Employee.Model\\Employee.Model.csproj": {
+                "projectPath": "E:\\C#\\C#_REPOS\\EmployeeData.API\\Employee.Model\\Employee.Model.csproj"
               }
             }
           }
@@ -64,21 +64,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Model\\Employee.Model.csproj": {
+    "E:\\C#\\C#_REPOS\\EmployeeData.API\\Employee.Model\\Employee.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Model\\Employee.Model.csproj",
+        "projectUniqueName": "E:\\C#\\C#_REPOS\\EmployeeData.API\\Employee.Model\\Employee.Model.csproj",
         "projectName": "Employee.Model",
-        "projectPath": "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Model\\Employee.Model.csproj",
-        "packagesPath": "C:\\Users\\SSD\\.nuget\\packages\\",
-        "outputPath": "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Model\\obj\\",
+        "projectPath": "E:\\C#\\C#_REPOS\\EmployeeData.API\\Employee.Model\\Employee.Model.csproj",
+        "packagesPath": "C:\\Users\\rajat\\.nuget\\packages\\",
+        "outputPath": "E:\\C#\\C#_REPOS\\EmployeeData.API\\Employee.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SSD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rajat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -124,21 +124,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\New Project\\employeedata2\\EmployeeData\\EmployeeData\\EmployeeData.csproj": {
+    "E:\\C#\\C#_REPOS\\EmployeeData.API\\EmployeeData\\EmployeeData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New Project\\employeedata2\\EmployeeData\\EmployeeData\\EmployeeData.csproj",
+        "projectUniqueName": "E:\\C#\\C#_REPOS\\EmployeeData.API\\EmployeeData\\EmployeeData.csproj",
         "projectName": "EmployeeData",
-        "projectPath": "D:\\New Project\\employeedata2\\EmployeeData\\EmployeeData\\EmployeeData.csproj",
-        "packagesPath": "C:\\Users\\SSD\\.nuget\\packages\\",
-        "outputPath": "D:\\New Project\\employeedata2\\EmployeeData\\EmployeeData\\obj\\",
+        "projectPath": "E:\\C#\\C#_REPOS\\EmployeeData.API\\EmployeeData\\EmployeeData.csproj",
+        "packagesPath": "C:\\Users\\rajat\\.nuget\\packages\\",
+        "outputPath": "E:\\C#\\C#_REPOS\\EmployeeData.API\\EmployeeData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SSD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rajat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -152,8 +152,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Business\\Employee.Business.csproj": {
-                "projectPath": "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Business\\Employee.Business.csproj"
+              "E:\\C#\\C#_REPOS\\EmployeeData.API\\Employee.Business\\Employee.Business.csproj": {
+                "projectPath": "E:\\C#\\C#_REPOS\\EmployeeData.API\\Employee.Business\\Employee.Business.csproj"
               }
             }
           }
@@ -197,7 +197,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
