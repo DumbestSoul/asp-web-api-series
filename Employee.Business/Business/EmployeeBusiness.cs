@@ -31,6 +31,18 @@ namespace Employee.Business.Business
             var result = _employee;
             return result;
         }
+        /**************************************************
+         ******************** ASGN-1 *********************
+         *************************************************/
+        public EmployeeMaster? GetEmployeeById(int id)
+        {
+            var emp = _employee.Find(p => p.EmployeeId == id);
+            if (emp == null)
+            {
+                return null;
+            }
+            return emp;
+        }
 
     }
 }

@@ -1,26 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\New Project\\employeedata2\\EmployeeData\\",
+  "WorkspaceRootPath": "E:\\C#\\C#_REPOS\\EmployeeData.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D60DCE32-9019-4D63-A0F8-7D52C33A4394}|Employee.Business\\Employee.Business.csproj|d:\\new project\\employeedata2\\employeedata\\employee.business\\business\\employeebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D60DCE32-9019-4D63-A0F8-7D52C33A4394}|Employee.Business\\Employee.Business.csproj|solutionrelative:employee.business\\business\\employeebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32B5BE3D-C3C4-4830-B7D8-AA7D3E000127}|Employee.Model\\Employee.Model.csproj|d:\\new project\\employeedata2\\employeedata\\employee.model\\employeemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32B5BE3D-C3C4-4830-B7D8-AA7D3E000127}|Employee.Model\\Employee.Model.csproj|solutionrelative:employee.model\\employeemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14BF5233-282B-4ED5-8C74-51E73E25A396}|EmployeeData\\EmployeeData.csproj|d:\\new project\\employeedata2\\employeedata\\employeedata\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14BF5233-282B-4ED5-8C74-51E73E25A396}|EmployeeData\\EmployeeData.csproj|e:\\c#\\c#_repos\\employeedata.api\\employeedata\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14BF5233-282B-4ED5-8C74-51E73E25A396}|EmployeeData\\EmployeeData.csproj|solutionrelative:employeedata\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D60DCE32-9019-4D63-A0F8-7D52C33A4394}|Employee.Business\\Employee.Business.csproj|d:\\new project\\employeedata2\\employeedata\\employee.business\\contract\\iemployeebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D60DCE32-9019-4D63-A0F8-7D52C33A4394}|Employee.Business\\Employee.Business.csproj|solutionrelative:employee.business\\contract\\iemployeebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D60DCE32-9019-4D63-A0F8-7D52C33A4394}|Employee.Business\\Employee.Business.csproj|e:\\c#\\c#_repos\\employeedata.api\\employee.business\\business\\employeebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D60DCE32-9019-4D63-A0F8-7D52C33A4394}|Employee.Business\\Employee.Business.csproj|solutionrelative:employee.business\\business\\employeebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BF5233-282B-4ED5-8C74-51E73E25A396}|EmployeeData\\EmployeeData.csproj|d:\\new project\\employeedata2\\employeedata\\employeedata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14BF5233-282B-4ED5-8C74-51E73E25A396}|EmployeeData\\EmployeeData.csproj|solutionrelative:employeedata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32B5BE3D-C3C4-4830-B7D8-AA7D3E000127}|Employee.Model\\Employee.Model.csproj|e:\\c#\\c#_repos\\employeedata.api\\employee.model\\employeemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B5BE3D-C3C4-4830-B7D8-AA7D3E000127}|Employee.Model\\Employee.Model.csproj|solutionrelative:employee.model\\employeemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -138,67 +130,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\New Project\\employeedata2\\EmployeeData\\EmployeeData\\Program.cs",
-              "RelativeDocumentMoniker": "EmployeeData\\Program.cs",
-              "ToolTip": "D:\\New Project\\employeedata2\\EmployeeData\\EmployeeData\\Program.cs",
-              "RelativeToolTip": "EmployeeData\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "EmployeeBusiness.cs",
+              "DocumentMoniker": "E:\\C#\\C#_REPOS\\EmployeeData.API\\Employee.Business\\Business\\EmployeeBusiness.cs",
+              "RelativeDocumentMoniker": "Employee.Business\\Business\\EmployeeBusiness.cs",
+              "ToolTip": "E:\\C#\\C#_REPOS\\EmployeeData.API\\Employee.Business\\Business\\EmployeeBusiness.cs",
+              "RelativeToolTip": "Employee.Business\\Business\\EmployeeBusiness.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T10:13:39.134Z",
+              "WhenOpened": "2024-04-10T23:39:32.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EmployeeBusiness.cs",
-              "DocumentMoniker": "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Business\\Business\\EmployeeBusiness.cs",
-              "RelativeDocumentMoniker": "Employee.Business\\Business\\EmployeeBusiness.cs",
-              "ToolTip": "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Business\\Business\\EmployeeBusiness.cs",
-              "RelativeToolTip": "Employee.Business\\Business\\EmployeeBusiness.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAiAAAA",
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\C#\\C#_REPOS\\EmployeeData.API\\EmployeeData\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeData\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\C#\\C#_REPOS\\EmployeeData.API\\EmployeeData\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeData\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T10:12:54.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IEmployeeBusiness.cs",
-              "DocumentMoniker": "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Business\\Contract\\IEmployeeBusiness.cs",
-              "RelativeDocumentMoniker": "Employee.Business\\Contract\\IEmployeeBusiness.cs",
-              "ToolTip": "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Business\\Contract\\IEmployeeBusiness.cs",
-              "RelativeToolTip": "Employee.Business\\Contract\\IEmployeeBusiness.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T10:12:35.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployeeMaster.cs",
-              "DocumentMoniker": "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Model\\EmployeeMaster.cs",
-              "RelativeDocumentMoniker": "Employee.Model\\EmployeeMaster.cs",
-              "ToolTip": "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Model\\EmployeeMaster.cs",
-              "RelativeToolTip": "Employee.Model\\EmployeeMaster.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T10:10:31.421Z",
+              "WhenOpened": "2024-04-10T23:04:49.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "D:\\New Project\\employeedata2\\EmployeeData\\EmployeeData\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "EmployeeData\\Controllers\\EmployeeController.cs",
-              "ToolTip": "D:\\New Project\\employeedata2\\EmployeeData\\EmployeeData\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "EmployeeData\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Title": "EmployeeMaster.cs",
+              "DocumentMoniker": "E:\\C#\\C#_REPOS\\EmployeeData.API\\Employee.Model\\EmployeeMaster.cs",
+              "RelativeDocumentMoniker": "Employee.Model\\EmployeeMaster.cs",
+              "ToolTip": "E:\\C#\\C#_REPOS\\EmployeeData.API\\Employee.Model\\EmployeeMaster.cs",
+              "RelativeToolTip": "Employee.Model\\EmployeeMaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T10:05:09.18Z",
+              "WhenOpened": "2024-04-10T23:03:34.602Z",
               "EditorCaption": ""
             }
           ]

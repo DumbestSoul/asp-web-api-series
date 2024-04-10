@@ -34,3 +34,40 @@ D:\New Project\employeedata2\EmployeeData\EmployeeData\bin\Debug\net8.0\Employee
 D:\New Project\employeedata2\EmployeeData\EmployeeData\bin\Debug\net8.0\Employee.Model.dll
 D:\New Project\employeedata2\EmployeeData\EmployeeData\bin\Debug\net8.0\Employee.Business.pdb
 D:\New Project\employeedata2\EmployeeData\EmployeeData\bin\Debug\net8.0\Employee.Model.pdb
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\bin\Debug\net8.0\appsettings.Development.json
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\bin\Debug\net8.0\appsettings.json
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\bin\Debug\net8.0\EmployeeData.exe
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\bin\Debug\net8.0\EmployeeData.deps.json
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\bin\Debug\net8.0\EmployeeData.runtimeconfig.json
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\bin\Debug\net8.0\EmployeeData.dll
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\bin\Debug\net8.0\EmployeeData.pdb
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\bin\Debug\net8.0\Employee.Business.dll
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\bin\Debug\net8.0\Employee.Model.dll
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\bin\Debug\net8.0\Employee.Business.pdb
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\bin\Debug\net8.0\Employee.Model.pdb
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\obj\Debug\net8.0\EmployeeData.csproj.AssemblyReference.cache
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\obj\Debug\net8.0\EmployeeData.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\obj\Debug\net8.0\EmployeeData.AssemblyInfoInputs.cache
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\obj\Debug\net8.0\EmployeeData.AssemblyInfo.cs
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\obj\Debug\net8.0\EmployeeData.csproj.CoreCompileInputs.cache
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\obj\Debug\net8.0\EmployeeData.MvcApplicationPartsAssemblyInfo.cs
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\obj\Debug\net8.0\EmployeeData.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\obj\Debug\net8.0\EmployeeData.sourcelink.json
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\obj\Debug\net8.0\staticwebassets.build.json
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\obj\Debug\net8.0\staticwebassets.development.json
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeData.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeData.props
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeData.props
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeData.props
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\obj\Debug\net8.0\staticwebassets.pack.json
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\obj\Debug\net8.0\scopedcss\bundle\EmployeeData.styles.css
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\obj\Debug\net8.0\Employee.DB0A2B80.Up2Date
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\obj\Debug\net8.0\EmployeeData.dll
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\obj\Debug\net8.0\refint\EmployeeData.dll
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\obj\Debug\net8.0\EmployeeData.pdb
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\obj\Debug\net8.0\EmployeeData.genruntimeconfig.cache
+E:\C#\C#_REPOS\EmployeeData.API\EmployeeData\obj\Debug\net8.0\ref\EmployeeData.dll

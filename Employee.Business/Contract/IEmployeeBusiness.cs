@@ -10,5 +10,9 @@ namespace Employee.Business.Contract
     public interface IEmployeeBusiness
     {
         IEnumerable<EmployeeMaster> GetEmployee();
+        /******************************************
+         ***************ASGN-1*********************
+         *****************************************/
+        EmployeeMaster? GetEmployeeById(int id);
     }
 }

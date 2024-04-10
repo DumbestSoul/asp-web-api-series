@@ -21,5 +21,18 @@ namespace EmployeeData.Controllers
             var result = _EmployeeBusiness.GetEmployee();
             return result;
         }
+        /************************************************
+         ***************  ASGN-1 ************************
+         ***********************************************/
+        [HttpGet("{id}")]
+        public ActionResult<EmployeeMaster> GetEmployeeById(int id)
+        {
+            var res = _EmployeeBusiness.GetEmployeeById(id);
+            if (res == null)
+            {
+                return NotFound();
+            }
+            return res;
+        }
     }
 }
